@@ -4,7 +4,7 @@
  * @程序类名：DynamicDataSourceRegister.java
  * @创建日期：2017年8月31日
  */
-package com.datapot.detection.config.datasource;
+package com.datapot.indicator.etl.config.datasource;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

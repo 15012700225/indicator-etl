@@ -4,7 +4,7 @@
  * @程序类名：QuartzManager.java
  * @创建日期：2018年1月12日
  */
-package com.datapot.detection.utils;
+package com.datapot.indicator.etl.utils;
 
 import org.quartz.*;
 import org.springframework.scheduling.quartz.SchedulerFactoryBean;

@@ -1,8 +1,8 @@
-package com.datapot.detection.config;
+package com.datapot.indicator.etl.config;
 
 
-import com.datapot.detection.timer.HelloWordJob;
-import com.datapot.detection.utils.QuartzManager;
+import com.datapot.indicator.etl.timer.HelloWordJob;
+import com.datapot.indicator.etl.utils.QuartzManager;
 import org.quartz.SchedulerException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.quartz.SchedulerFactoryBean;

@@ -4,7 +4,7 @@
  * @程序类名：DynamicDataSourceContextHolder.java
  * @创建日期：2017年8月31日
  */
-package com.datapot.detection.config.datasource;
+package com.datapot.indicator.etl.config.datasource;
 
 import java.util.ArrayList;
 import java.util.List;

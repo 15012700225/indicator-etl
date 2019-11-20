@@ -4,7 +4,7 @@
  * @程序类名：SchedulerListener.java
  * @创建日期：2017年9月2日
  */
-package com.datapot.detection.config;
+package com.datapot.indicator.etl.config;
 
 import org.quartz.SchedulerException;
 import org.springframework.beans.factory.annotation.Autowired;

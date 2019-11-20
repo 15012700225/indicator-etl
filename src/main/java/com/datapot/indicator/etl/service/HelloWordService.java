@@ -1,4 +1,4 @@
-package com.datapot.detection.service;
+package com.datapot.indicator.etl.service;
 
 public interface HelloWordService {
 

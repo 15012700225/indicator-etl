@@ -1,6 +1,6 @@
-package com.datapot.detection.service.impl;
+package com.datapot.indicator.etl.service.impl;
 
-import com.datapot.detection.service.HelloWordService;
+import com.datapot.indicator.etl.service.HelloWordService;
 import org.springframework.stereotype.Service;
 
 

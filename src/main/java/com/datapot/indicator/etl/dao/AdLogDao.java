@@ -1,7 +1,7 @@
-package com.datapot.detection.dao;
+package com.datapot.indicator.etl.dao;
 
-import com.datapot.detection.bean.AssetsInfoBean;
-import com.datapot.detection.config.datasource.TargetDataSource;
+import com.datapot.indicator.etl.bean.AssetsInfoBean;
+import com.datapot.indicator.etl.config.datasource.TargetDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

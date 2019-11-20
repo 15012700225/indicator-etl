@@ -1,4 +1,4 @@
-package com.datapot.detection.bean;
+package com.datapot.indicator.etl.bean;
 
 import javax.persistence.*;
 import java.io.Serializable;

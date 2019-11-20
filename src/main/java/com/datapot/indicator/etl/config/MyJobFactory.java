@@ -1,4 +1,4 @@
-package com.datapot.detection.config;
+package com.datapot.indicator.etl.config;
 
 import org.quartz.spi.TriggerFiredBundle;
 import org.springframework.beans.factory.annotation.Autowired;
