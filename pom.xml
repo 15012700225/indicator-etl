@@ -11,7 +11,7 @@
     <groupId>com.datapot</groupId>
     <artifactId>indicator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>detection-etl</name>
+    <name>indicator</name>
     <description>Detection ETL project for Spring Boot</description>
 
     <properties>
@@ -106,5 +106,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

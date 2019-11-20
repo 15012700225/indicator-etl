@@ -10,10 +10,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @Import({ DynamicDataSourceRegister.class })
 @SpringBootApplication
 @EnableTransactionManagement
-public class IndicatorEtlApplication {
+public class IndicatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IndicatorEtlApplication.class, args);
+		SpringApplication.run(IndicatorApplication.class, args);
 	}
 
 }
